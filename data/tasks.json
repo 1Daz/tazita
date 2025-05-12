@@ -1,7 +1,12 @@
 [
     {
-    "id": 1,
-    "description": "Tin",
-    "completada": true
+        "ID": 1,
+        "Description": "Tin",
+        "Completed": true
+    },
+    {
+        "ID": 2,
+        "Description": "Tan",
+        "Completed": false
     }
 ]
